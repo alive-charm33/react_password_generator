@@ -11,6 +11,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .container {
@@ -91,6 +92,7 @@ body {
 
 .generate-btn:hover {
   background: #005fe0;
+  transform: none;
 }
 
 .strength {
