@@ -7,7 +7,7 @@ const StrengthMeter = ({ length }) => {
 
   return (
     <div className="strength">
-      Strength:
+      Strength of password:
       <span className={getStrength().toLowerCase()}>
         {" "}
         {getStrength()}
